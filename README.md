@@ -107,3 +107,8 @@ IMGEMULADOR=C:\Arcade System\Logos\SNES.png
 ``` 
 ## Note that at the end of each directory we have a "\\" is extremely necessary to use this bar, the extensions of Emulator Rom are separated by "|"
 ## EXTENSAO = sfc | smc | zip
+
+# File system
+Recommended organize images, emulators and roms into folders and subfolder for better organization.
+
+![alt text](https://github.com/wedsonregis/Arcade-System/blob/master/arquivos.JPG)
