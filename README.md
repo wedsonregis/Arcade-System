@@ -1,4 +1,5 @@
 # Arcade-System
+![alt text](https://github.com/wedsonregis/Arcade-System/blob/master/Front.jpg)
 This front was developed at Tokyo delphi without using third party components, some of the concepts involved:
 
 ### XML
@@ -15,6 +16,7 @@ the games will only be loaded if the Snaps and Wheels and roms have the same nam
          and (FileExists(Emuladores[II].DirectoryPrints + Match + '.png'))
            and (CheckExtenssion(Emuladores[II].DirectoryRoms,Match,Emuladores[II].RomsExtenssion))
 ``` 
+![alt text](https://github.com/wedsonregis/Arcade-System/blob/master/Front2.jpg)
 
 **Link to download the Snaps**
 https://github.com/ekeeke/no-intro-thumbnails
@@ -27,7 +29,7 @@ https://hyperlist.hyperspin-fe.com/
 
 
 # Parameter INI
-Para adicionar novos emuladore segue a estrutura EMULADOR_X onde "x" é o numero do emulador, atualmente o sustema trabalha com 3 tipos de emuladores 
+To add new emulators follows the structure of the ini file: EMULATOR_X where "X" is the number of the emulator, currently the system works with 3 types of emulators: 
 # mameui,  Snes9x e  Fusion.
 ```INI 
 [EMULADOR_1]
@@ -60,5 +62,5 @@ NOMEEMULADOR=snes9x.exe
 EXTENSAO=sfc|smc|zip
 IMGEMULADOR=C:\Arcade System\Logos\SNES.png
 ``` 
-Note that at the end of each directory we have a "\" is extremely necessary to use this bar, the extensions are separated by "|"
-EXTENSAO = sfc | smc | zip
+## Note that at the end of each directory we have a "\\" is extremely necessary to use this bar, the extensions are separated by "|"
+## EXTENSAO = sfc | smc | zip
