@@ -14,20 +14,22 @@ the games will only be loaded if the Snaps and Wheels and roms have the same nam
        (FileExists(Emuladores[II].DirectoryWhells + Match + '.png'))
          and (FileExists(Emuladores[II].DirectoryPrints + Match + '.png'))
            and (CheckExtenssion(Emuladores[II].DirectoryRoms,Match,Emuladores[II].RomsExtenssion))
-```           
-Link to download the Snaps
+``` 
+
+**Link to download the Snaps**
 https://github.com/ekeeke/no-intro-thumbnails
 
-Link to download the Wheels
+**Link to download the Wheels**
 https://www.arcadepunks.com/download-hyperspin-wheels/
 
-Link to download Database XML
+**Link to download Database XML**
 https://hyperlist.hyperspin-fe.com/
 
 
 # Parameter INI
 Para adicionar novos emuladore segue a estrutura EMULADOR_X onde "x" é o numero do emulador, atualmente o sustema trabalha com 3 tipos de emuladores 
-# mameui,  Snes9x e  Fusion
+# mameui,  Snes9x e  Fusion.
+```INI 
 [EMULADOR_1]
 XML=C:\Arcade System\XML\MAME.xml
 DIRETORIOEMULADOR=C:\Arcade System\Emuladores\MAME\MameUI_0.183_32bit\
@@ -57,6 +59,6 @@ DIRETORIOSNAPS=C:\Arcade System\Snaps\SNES\
 NOMEEMULADOR=snes9x.exe
 EXTENSAO=sfc|smc|zip
 IMGEMULADOR=C:\Arcade System\Logos\SNES.png
-
+``` 
 Note that at the end of each directory we have a "\" is extremely necessary to use this bar, the extensions are separated by "|"
 EXTENSAO = sfc | smc | zip
