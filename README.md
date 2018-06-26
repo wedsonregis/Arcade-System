@@ -14,7 +14,7 @@ the games will only be loaded if the Snaps and Wheels and roms have the same nam
  if (
        (FileExists(Emuladores[II].DirectoryWhells + Match + '.png'))
          and (FileExists(Emuladores[II].DirectoryPrints + Match + '.png'))
-           and (CheckExtenssion(Emuladores[II].DirectoryRoms,Match,Emuladores[II].RomsExtenssion))
+           and (CheckExtension(Emuladores[II].DirectoryRoms,Match,Emuladores[II].RomsExtension))
 ``` 
 ![alt text](https://github.com/wedsonregis/Arcade-System/blob/master/Front2.jpg)
 
@@ -43,14 +43,14 @@ command=%l %r -auto -fullscreen
 
 ```delphi
   // abre o emulador selecionado precisa melhorar a forma que identifica o emulador
- procedure TF_Shifst_Main.OpenEmulator(Emulator,RunGame,DirectoryEmulator:string);
+ procedure TF_Shift_Main.OpenEmulator(Emulator,RunGame,DirectoryEmulator:string);
   var
      parametro:string ;
-     extenssion:string;
+     extension:string;
   begin
    try
         //Seta a extens�o correta para rodar a rom
-       extenssion := '.'+GetExtenssion(Emuladores[Jogos[JI].ID].DirectoryRoms,RunGame,Emuladores[Jogos[JI].ID].RomsExtenssion);
+       extension := '.'+GetExtension(Emuladores[Jogos[JI].ID].DirectoryRoms,RunGame,Emuladores[Jogos[JI].ID].RomsExtenssion);
 
        if Emulator = 'mameui.exe' then
             ShellExecute(1,'open',pchar(Emulator),pchar(RunGame),pchar(DirectoryEmulator), SW_SHOWNORMAL)
