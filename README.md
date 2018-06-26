@@ -1,25 +1,33 @@
 # Arcade-System
 This front was developed at Tokyo delphi without using third party components, some of the concepts involved:
 
-XML,
-INI files,
-Windows Processes,
-Windows API,
-API Joysticks and
-Class
-
-Need to improve the way the emulators are identified
+### XML
+### INI files
+### Windows Processes
+### Windows API
+### API Joysticks
+### Class
 
 the games will only be loaded if the Snaps and Wheels and roms have the same names
+```Delphi
  if (
        (FileExists(Emuladores[II].DirectoryWhells + Match + '.png'))
          and (FileExists(Emuladores[II].DirectoryPrints + Match + '.png'))
            and (CheckExtenssion(Emuladores[II].DirectoryRoms,Match,Emuladores[II].RomsExtenssion))
-           
+```           
 Link to download the Snaps
 https://github.com/ekeeke/no-intro-thumbnails
 
-Parameter INI
+Link to download the Wheels
+https://www.arcadepunks.com/download-hyperspin-wheels/
+
+Link to download Database XML
+https://hyperlist.hyperspin-fe.com/
+
+
+# Parameter INI
+Para adicionar novos emuladore segue a estrutura EMULADOR_X onde "x" é o numero do emulador, atualmente o sustema trabalha com 3 tipos de emuladores 
+# mameui,  Snes9x e  Fusion
 [EMULADOR_1]
 XML=C:\Arcade System\XML\MAME.xml
 DIRETORIOEMULADOR=C:\Arcade System\Emuladores\MAME\MameUI_0.183_32bit\
