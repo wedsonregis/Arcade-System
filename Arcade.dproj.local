@@ -2,33 +2,33 @@
 <BorlandProject>
 	<Transactions>
     <Transaction>2018/03/29 23:47:31.000.458,=C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
-    <Transaction>2018/03/30 00:09:11.000.347,C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Unit1.fmx=C:\Users\sinho\Desktop\Arquivos Importantes\Swift\Shifts_main.fmx</Transaction>
-    <Transaction>2018/03/30 00:09:11.000.347,C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Unit1.pas=C:\Users\sinho\Desktop\Arquivos Importantes\Swift\Shifts_main.pas</Transaction>
-    <Transaction>2018/03/30 00:09:19.000.701,C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Project1.dproj=C:\Users\sinho\Desktop\Arquivos Importantes\Swift\Shifts.dproj</Transaction>
+    <Transaction>2018/03/30 00:09:11.000.347,C:\Users\sinho\Desktop\Arquivos Importantes\Swift\Shifts_main.fmx=C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Unit1.fmx</Transaction>
+    <Transaction>2018/03/30 00:09:11.000.347,C:\Users\sinho\Desktop\Arquivos Importantes\Swift\Shifts_main.pas=C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2018/03/30 00:09:19.000.701,C:\Users\sinho\Desktop\Arquivos Importantes\Swift\Shifts.dproj=C:\Users\sinho\Documents\Embarcadero\Studio\Projects\Project1.dproj</Transaction>
     <Transaction>2018/03/31 13:28:39.000.077,=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas</Transaction>
     <Transaction>2018/03/31 13:30:24.000.999,=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas</Transaction>
     <Transaction>2018/03/31 13:40:03.000.723,=C:\Users\sinho\Desktop\Importantes\Swift\Unit3.pas</Transaction>
     <Transaction>2018/03/31 13:53:40.000.122,=C:\Users\sinho\Desktop\Importantes\Swift\Unit4.pas</Transaction>
-    <Transaction>2018/03/31 14:37:57.000.859,C:\Users\sinho\Desktop\Importantes\Swift\Unit4.pas=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_Profile.pas</Transaction>
-    <Transaction>2018/03/31 14:37:57.000.859,C:\Users\sinho\Desktop\Importantes\Swift\Unit4.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_Profile.fmx</Transaction>
-    <Transaction>2018/03/31 14:38:19.000.055,C:\Users\sinho\Desktop\Importantes\Swift\Unit3.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_login.fmx</Transaction>
-    <Transaction>2018/03/31 14:38:19.000.055,C:\Users\sinho\Desktop\Importantes\Swift\Unit3.pas=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_login.pas</Transaction>
-    <Transaction>2018/03/31 14:39:08.000.466,C:\Users\sinho\Desktop\Importantes\Swift\Unit2.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.fmx</Transaction>
-    <Transaction>2018/03/31 14:39:08.000.466,C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.pas</Transaction>
+    <Transaction>2018/03/31 14:37:57.000.859,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_Profile.pas=C:\Users\sinho\Desktop\Importantes\Swift\Unit4.pas</Transaction>
+    <Transaction>2018/03/31 14:37:57.000.859,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_Profile.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Unit4.fmx</Transaction>
+    <Transaction>2018/03/31 14:38:19.000.055,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_login.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Unit3.fmx</Transaction>
+    <Transaction>2018/03/31 14:38:19.000.055,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_login.pas=C:\Users\sinho\Desktop\Importantes\Swift\Unit3.pas</Transaction>
+    <Transaction>2018/03/31 14:39:08.000.466,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.fmx</Transaction>
+    <Transaction>2018/03/31 14:39:08.000.466,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.pas=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas</Transaction>
     <Transaction>2018/03/31 14:53:45.000.750,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.pas=</Transaction>
     <Transaction>2018/03/31 14:54:10.000.977,=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas</Transaction>
-    <Transaction>2018/03/31 14:57:16.000.816,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.pas=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas</Transaction>
-    <Transaction>2018/03/31 14:57:16.000.816,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Unit2.fmx</Transaction>
+    <Transaction>2018/03/31 14:57:16.000.816,C:\Users\sinho\Desktop\Importantes\Swift\Unit2.pas=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.pas</Transaction>
+    <Transaction>2018/03/31 14:57:16.000.816,C:\Users\sinho\Desktop\Importantes\Swift\Unit2.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.fmx</Transaction>
     <Transaction>2018/03/31 16:44:26.000.471,=C:\Users\sinho\Desktop\Importantes\Swift\Unit1.pas</Transaction>
     <Transaction>2018/06/14 00:12:55.000.404,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_Profile.pas=</Transaction>
     <Transaction>2018/06/14 00:13:00.000.807,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_SignUp.pas=</Transaction>
     <Transaction>2018/06/14 00:13:07.000.264,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_login.pas=</Transaction>
-    <Transaction>2018/06/14 00:14:05.000.300,C:\Users\sinho\Desktop\Front-end\Versão Swift\Arcade.dproj=C:\Users\sinho\Desktop\Importantes\Swift\Shifts.dproj</Transaction>
+    <Transaction>2018/06/14 00:14:05.000.300,C:\Users\sinho\Desktop\Importantes\Swift\Shifts.dproj=C:\Users\sinho\Desktop\Front-end\Versão Swift\Arcade.dproj</Transaction>
     <Transaction>2018/06/14 00:14:13.000.254,C:\Users\sinho\Desktop\Front-end\Versão Swift\Arcade.dproj=C:\Users\sinho\Desktop\Front-end\Versão Swift\Arcade.dproj</Transaction>
-    <Transaction>2018/06/14 00:14:42.000.821,C:\Users\sinho\Desktop\Front-end\Versão Swift\U_main.pas=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_main.pas</Transaction>
-    <Transaction>2018/06/14 00:14:42.000.821,C:\Users\sinho\Desktop\Front-end\Versão Swift\U_main.fmx=C:\Users\sinho\Desktop\Importantes\Swift\Shifts_main.fmx</Transaction>
-    <Transaction>2018/06/14 00:17:44.000.461,=C:\Users\sinho\Desktop\Front-end\Versão Swift\Emuladores.pas</Transaction>
+    <Transaction>2018/06/14 00:14:42.000.821,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_main.pas=C:\Users\sinho\Desktop\Front-end\Versão Swift\U_main.pas</Transaction>
+    <Transaction>2018/06/14 00:14:42.000.821,C:\Users\sinho\Desktop\Importantes\Swift\Shifts_main.fmx=C:\Users\sinho\Desktop\Front-end\Versão Swift\U_main.fmx</Transaction>
     <Transaction>2018/06/14 00:17:44.000.474,=C:\Users\sinho\Desktop\Front-end\Versão Swift\U_Jogos.pas</Transaction>
+    <Transaction>2018/06/14 00:17:44.000.461,=C:\Users\sinho\Desktop\Front-end\Versão Swift\Emuladores.pas</Transaction>
     <Transaction>2018/06/14 00:17:45.000.099,=C:\Users\sinho\Desktop\Front-end\Versão Swift\U_Joy.pas</Transaction>
   </Transactions>
 	<ActiveMobileDevice>
